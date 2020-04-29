@@ -12,8 +12,7 @@ function writeCards(names, event) {
 }
 
 function countDown(num) {
-  let countdown = num;
-  while (countdown >= num) {
-  console.log(countdown--);
+  while (num >= 0) {
+  console.log(num--);
   }
 }
