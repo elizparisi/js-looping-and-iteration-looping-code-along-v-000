@@ -9,3 +9,5 @@ function writeCards(name, event) {
   
   return cards;
 }
+
+function countDown()
