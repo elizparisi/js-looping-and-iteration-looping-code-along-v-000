@@ -1,6 +1,6 @@
 // Code your solutions in this file
 
-const cards = []
+const messages = []
 
 function writeCards(names, event) {
   for (let i = 0; i < names.length; i++) {
