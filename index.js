@@ -10,3 +10,9 @@ function writeCards(names, event) {
 
   return messages;
 }
+
+function countDown(num) {
+  for (let countDown = num; countDown > num; countDown--) {
+    console.log(countDown);
+  }
+}
